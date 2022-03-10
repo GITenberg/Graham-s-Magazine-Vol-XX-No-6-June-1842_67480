@@ -1,5 +1,8 @@
 _repo: Graham-s-Magazine-Vol-XX-No-6-June-1842_67480
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67480-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33746
     wikipedia: https://en.wikipedia.org/wiki/George_Rex_Graham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67480#Graham-s-Magazine-Vol-XX-No-6-June-1842
 gutenberg_issued: '2022-02-23'
 identifiers:
   gutenberg: '67480'
